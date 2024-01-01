@@ -18,7 +18,7 @@ A simplified reproduction of Amazon's landing page to showcase basic structure a
 
 ## Live Demo
 
-![Amazon Frontend Clone](https://anupriya2508.github.io/AmazonClone/)
+ Live Demo of the website : https://anupriya2508.github.io/AmazonClone/
 
 ## Screenshots
 
@@ -42,14 +42,8 @@ A simplified reproduction of Amazon's landing page to showcase basic structure a
 
 3. Explore the simple Amazon Frontend Clone landing page.
 
-## Preview
-
-![Amazon Frontend Clone Preview](link_to_preview_image)
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
