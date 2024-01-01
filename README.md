@@ -8,7 +8,6 @@ A simplified reproduction of Amazon's landing page to showcase basic structure a
 - [How to Use](#how-to-use)
 - [Preview](#preview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
